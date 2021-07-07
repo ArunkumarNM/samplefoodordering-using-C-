@@ -1,9 +1,9 @@
-#include<iostream.h>
+#include<iostream>
 #include<conio.h>
 //using namespace std;
 int main()
 {
-	char name[30], pizza[]="Margherita" ,pizza2[]="pepper barbecue Chicken" ,pizza3[]="Farmhouse" ,pizza4[]="Veggie paradise", roll1[]="panner Roll", roll2[]="Mushroom Roll", roll3[]="Veg Roll With Fries",bur1[]="Zinger Burger",bur2[]="Chicken Burger",bur3[]="Egg Burger";
+	char name[30], pizza1[]="Margherita" ,pizza2[]="pepper barbecue Chicken" ,pizza3[]="Farmhouse" ,pizza4[]="Veggie paradise", roll1[]="panner Roll", roll2[]="Mushroom Roll", roll3[]="Veg Roll With Fries",bur1[]="Zinger Burger",bur2[]="Chicken Burger",bur3[]="Egg Burger";
 	char sand1[]="panner Sandwich", sand2[]="Chicken Crispy Sandwich", sand3[]="Extream Veg Sandwich";
 	char bir1[]="Chicken Biryani", bir2[]="Prawn Biryani", bir3[]="Mutton Biryani",gotostart ;
 	int choice=0,pchoice,pchoice1, quantity;// time=40;
