@@ -1,0 +1,9 @@
+SIMPLE FOOD ORDERING SYSTEM IN C++
+
+
+**Developed By ARUNKUMAR NM,
+  Information science and engineering student,
+  RNS Institute of Technology,bengaluru-560098**
+
+
+***** IF YOU FIND ANY ERRORS OR ANY PROBLEMS RELATED THIS PROGRAM, FEEL FREE TO CONTACT ME EMAIL:1rn18is027.arun@gmail.com*****  
